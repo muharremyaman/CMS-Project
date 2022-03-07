@@ -24,7 +24,7 @@
   <div class="wrap">
 	<section class="app-content">
 		
-        <?php echo $this->load->view("dashboard_v/content"); ?>
+        <?php $this->load->view("dashboard_v/content"); ?>
 
 	</section><!-- #dash-content -->
 </div><!-- .wrap -->
