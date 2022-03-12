@@ -36,13 +36,13 @@
         </li>
       </ul>
 
-      <ul class="nav navbar-toolbar navbar-toolbar-right navbar-right">
+       <ul class="nav navbar-toolbar navbar-toolbar-right navbar-right">
         <li class="nav-item dropdown hidden-float">
           <a href="javascript:void(0)" data-toggle="collapse" data-target="#navbar-search" aria-expanded="false">
             <i class="zmdi zmdi-hc-lg zmdi-search"></i>
           </a>
         </li>
-
+<!--
         <li class="dropdown">
           <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="zmdi zmdi-hc-lg zmdi-notifications"></i></a>
           <div class="media-group dropdown-menu animated flipInY">
@@ -59,7 +59,7 @@
                   <small class="media-meta">Active now</small>
                 </div>
               </div>
-            </a><!-- .media-group-item -->
+            </a>
 
             <a href="javascript:void(0)" class="media-group-item">
               <div class="media">
@@ -74,7 +74,7 @@
                   <small class="media-meta">2 hours ago</small>
                 </div>
               </div>
-            </a><!-- .media-group-item -->
+            </a>
 
             <a href="javascript:void(0)" class="media-group-item">
               <div class="media">
@@ -89,7 +89,7 @@
                   <small class="media-meta">idle 5 min ago</small>
                 </div>
               </div>
-            </a><!-- .media-group-item -->
+            </a>
 
             <a href="javascript:void(0)" class="media-group-item">
               <div class="media">
@@ -104,7 +104,7 @@
                   <small class="media-meta">idle 5 min ago</small>
                 </div>
               </div>
-            </a><!-- .media-group-item -->
+            </a>
           </div>
         </li>
 
@@ -121,7 +121,7 @@
         <li class="dropdown">
           <a href="javascript:void(0)" class="side-panel-toggle" data-toggle="class" data-target="#side-panel" data-class="open" role="button"><i class="zmdi zmdi-hc-lg zmdi-apps"></i></a>
         </li>
-      </ul>
+      </ul> -->
     </div>
   </div><!-- navbar-container -->
 </nav>
