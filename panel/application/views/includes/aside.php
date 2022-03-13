@@ -31,7 +31,7 @@
                 <li>
                   <a class="text-color" href="settings.html">
                     <span class="m-r-xs"><i class="fa fa-gear"></i></span>
-                    <span>Settings</span>
+                    <span>Ayarlar</span>
                   </a>
                 </li>
                 
